@@ -3,7 +3,7 @@
 SmartSpeed MPV is a lightweight Lua script for [mpv](https://mpv.io/) that automatically changes playback speed using the timing gaps in a selected external `.srt` subtitle file.
 
 - Dialogue speed: **3×**
-- Long subtitle gaps: **8×**
+- Long subtitle gaps(No dialogue): **8×**
 - Manual override: press **B** to toggle **2×** speed when action scenes
 
 
